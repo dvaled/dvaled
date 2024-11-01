@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Line Up](https://github.com/dvaled/dvaled/blob/main/Line%20up.png?raw=true)
 <!--
 **dvaled/dvaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
